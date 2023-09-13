@@ -1,0 +1,12 @@
+HGNC ID (gene),Approved symbol,Approved name,Previous symbols,Aliases,Chromosome
+HGNC:9936,OPN1LW,"opsin 1, long wave sensitive","CBBM,RCP,CBP",COD5,Xq28
+HGNC:4206,OPN1MW,"opsin 1, medium wave sensitive","GCP,CBBM,CBD","OPN1MW1,COD5",Xq28
+HGNC:26952,OPN1MW2,"opsin 1, medium wave sensitive 2",,,Xq28
+HGNC:51831,OPN1MW3,"opsin 1, medium wave sensitive 3",,,Xq28
+HGNC:1012,OPN1SW,"opsin 1, short wave sensitive",BCP,"BOP,CBT",7q32.1
+HGNC:10012,RHO,rhodopsin,RP4,"OPN2,CSNBAD1",3q22.1
+HGNC:14007,OPN3,opsin 3,ECPN,"ERO,NMO-1,encephalopsin,PPP1R116",1q43
+HGNC:14449,OPN4,opsin 4,,"MOP,melanopsin",10q23.2
+HGNC:19992,OPN5,opsin 5,TMEM13,"neuropsin,dJ402H5.1",6p12.3
+HGNC:9990,RGR,retinal G protein coupled receptor,,RP44,10q23.1
+HGNC:10450,RRH,retinal pigment epithelium-derived rhodopsin homolog,,peropsin,4q25
